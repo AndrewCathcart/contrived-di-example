@@ -1,6 +1,4 @@
-package awc.personaldev.contriveddependencyinjectionexample.bad;
-
-import awc.personaldev.contriveddependencyinjectionexample.bad.Application;
+package java.awc.personaldev.contriveddiexample.bad;
 
 public class Main {
     public static void main(String[] args) {

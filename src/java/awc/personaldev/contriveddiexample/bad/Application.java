@@ -1,4 +1,4 @@
-package awc.personaldev.contriveddependencyinjectionexample.bad;
+package java.awc.personaldev.contriveddiexample.bad;
 
 public class Application {
     private FacebookMessengerService facebookMessenger = new FacebookMessengerService();
