@@ -1,4 +1,4 @@
-package java.awc.personaldev.contriveddiexample.bad;
+package awc.personaldev.contriveddiexample.bad.main.java;
 
 public class Application {
     private FacebookMessengerService facebookMessenger = new FacebookMessengerService();

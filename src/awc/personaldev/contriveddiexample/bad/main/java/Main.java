@@ -1,4 +1,4 @@
-package java.awc.personaldev.contriveddiexample.bad;
+package awc.personaldev.contriveddiexample.bad.main.java;
 
 /*
 Application class is responsible for initializing the FacebookMessengerService and then using it.

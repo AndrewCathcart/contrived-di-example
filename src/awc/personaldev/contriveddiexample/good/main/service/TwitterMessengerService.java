@@ -1,4 +1,4 @@
-package java.awc.personaldev.contriveddiexample.good.service;
+package awc.personaldev.contriveddiexample.good.main.service;
 
 public class TwitterMessengerService implements DirectMessageService{
     @Override
